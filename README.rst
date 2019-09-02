@@ -4,11 +4,7 @@ Django Filer
 
 |pypi| |build| |coverage|
 
-**django Filer** is a file management application for django that makes 
-handling of files and images a breeze.
-
-.. We're using absolute image url below, because relative paths won't work on
-   pypi. github would render relative paths correctly.
+本地修改
 
 +---------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
 | .. image:: https://raw.githubusercontent.com/divio/django-filer/develop/docs/_static/filer_2.png        | .. image:: https://raw.githubusercontent.com/divio/django-filer/develop/docs/_static/filer_3.png        |
